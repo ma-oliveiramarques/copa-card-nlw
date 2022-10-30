@@ -1,6 +1,7 @@
 # 💻 Card NLW - Copa
+![preview of the project](./.github/project_preview.png 'NLW Copa - Card')
+The purpose of this project is to built an User's card of the event NLW - Copa. This card is dynamic and change its color theme with one click on top. We use HTML and CSS + JS DOM to switch the themes between mouse clicks.
 
-The purpose of this project is to built an User's card of the event NLW - Copa.
 You can find the link to develop your own event id Card [here](https://www.youtube.com/watch?v=sswJisbD2CY).
 This project was developed before the Next Level Week (NLW Copa) event organized by [Rocketseat](https://www.rocketseat.com.br/).
 
